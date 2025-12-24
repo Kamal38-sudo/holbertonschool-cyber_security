@@ -1,2 +1,2 @@
 #!/bin/bash
-nslookup -type=A
+nslookup -type=A "$1"
