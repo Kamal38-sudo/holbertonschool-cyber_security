@@ -1,2 +1,3 @@
 #!/bin/bash
-sudo iptables -p tcp -A INPUT --dport 80 -j ACCEPT
+ufw default allow incoming
+ufw allow 80/tcp
