@@ -1,2 +1,2 @@
 #!/bin/bash
-ufw default allow incoming 80/tcp
+sudo ufw default allow incoming 80/tcp
