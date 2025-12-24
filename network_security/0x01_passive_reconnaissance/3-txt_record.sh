@@ -1,2 +1,2 @@
 #!/bin/bash
-nslookup -query=TXT "$1"
+^nslookup.*-(q|query|type|querytype)=.*[tT][xX][tT].*\$1
