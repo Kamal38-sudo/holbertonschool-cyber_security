@@ -1,0 +1,2 @@
+#!/bin/bash
+dig @10.42.125.183 passive.hbtn
