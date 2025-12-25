@@ -1,2 +1,1 @@
-#!/bin/bash
-dig @10.42.194.219 passive.hbtn
+qr aa rd ra
