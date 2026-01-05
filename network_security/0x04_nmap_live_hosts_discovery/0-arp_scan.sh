@@ -1,1 +1,2 @@
-nmap -sn -PR "$1"
+#!/bin/bash
+sudo nmap -sn -PR "$1"
