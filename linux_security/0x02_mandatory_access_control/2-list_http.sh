@@ -1,2 +1,2 @@
 #!/bin/bash
-semanage port https
+semanage port -l https
