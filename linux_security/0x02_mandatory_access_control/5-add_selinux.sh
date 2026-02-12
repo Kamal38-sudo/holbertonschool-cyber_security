@@ -1,2 +1,2 @@
 #!/bin/bash
-semanage login -a -s <SELinux_user> $1
+semanage login -a -s user_u "$LOGIN"
