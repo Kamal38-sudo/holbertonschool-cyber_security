@@ -1,2 +1,2 @@
 #!/bin/bash
-semanage port -l https
+semanage port -l | grep "https"
