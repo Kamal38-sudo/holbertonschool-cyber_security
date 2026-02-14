@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -i "public" $SNMP_CONF 2>/dev/null
+grep -i "public"  /etc/snmp/snmpd.conf 2>/dev/null
