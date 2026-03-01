@@ -2,7 +2,6 @@
 
 This repository contains structured resources and notes to help learners understand different areas of cybersecurity. Each folder focuses on a specific domain.
 
-
 ##  cybersecurity_basics
 **Description:**
 This section covers the fundamental concepts of cybersecurity. You will learn about threats, attacks, security principles, risk management, and basic defensive strategies.
